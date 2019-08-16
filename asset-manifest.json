@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.9c92fe70.css",
   "main.css.map": "static/css/main.9c92fe70.css.map",
-  "main.js": "static/js/main.62ac204e.js",
-  "main.js.map": "static/js/main.62ac204e.js.map",
+  "main.js": "static/js/main.ce7d0de6.js",
+  "main.js.map": "static/js/main.ce7d0de6.js.map",
   "static\\media\\alexa.jpg": "static/media/alexa.7974cf87.jpg",
   "static\\media\\clap.jpg": "static/media/clap.90b7d8b9.jpg",
   "static\\media\\discord.png": "static/media/discord.5ff23215.png",
@@ -16,6 +16,7 @@
   "static\\media\\reddit-script.jpg": "static/media/reddit-script.e44d48cb.jpg",
   "static\\media\\searchandpro.png": "static/media/searchandpro.b160ad1a.png",
   "static\\media\\senior.jpg": "static/media/senior.e1ca6a4e.jpg",
+  "static\\media\\simulator.jpg": "static/media/simulator.8cc6b91a.jpg",
   "static\\media\\talcum.jpg": "static/media/talcum.b47b0fb0.jpg",
   "static\\media\\uwaterloo.png": "static/media/uwaterloo.d9cda810.png",
   "static\\media\\watson.jpg": "static/media/watson.94e8d0d0.jpg"
